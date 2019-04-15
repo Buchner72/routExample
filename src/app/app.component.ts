@@ -24,7 +24,7 @@ export class AppComponent {
   //  console.log(data.json());
   // })
   // }
-
+//
 }
 
 export enum Anrede {
@@ -37,10 +37,11 @@ export enum Anrede {
 
 // Hinweis zum starten der Anwendung!!
 // 1.Aus VisualStudio2017 Prokekt mukiVertragWebAPI starten (C:\Users\BucFra\Documents\Visual Studio 2017\Projects\WebAPI\WebAPI\)
-// 2.In Terminal eingenben WebServer Starten:  npm start   (WebServer wieder beenden STRAG+C)
+// 2.In Terminal eingenben WebServer Starten:  npm start   (WebServer wieder beenden STRG+C)
 // 3. http://localhost:4200/
 
 // Hinweis Daten aus der WebAPI (Vertragslibrary werden angezeigt)
+
 
 
 
