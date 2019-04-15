@@ -17,6 +17,10 @@ export class AppComponent {
       console.log(this.vertraege);
     });
   }
+  // Wichtig
+  // Anpassung in proxy.config.json nicht vergessen
+  // Start mit: npm start (um mit proxy.config.json zu starten!)
+
 
   // https://www.youtube.com/watch?v=OjmZPPKaj6A  Info: Lokale Wep API nutzen
   // ngOnInit(): void {
